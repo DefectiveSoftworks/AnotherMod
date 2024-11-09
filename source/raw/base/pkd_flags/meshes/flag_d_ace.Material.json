@@ -1,0 +1,178 @@
+{
+  "Header": {
+    "MaterialJsonVersion": "1.0.0"
+  },
+  "MaterialRepo": "C:\\Users\\W3Geek\\AppData\\Roaming\\REDModding\\WolvenKit\\Depot",
+  "Materials": [
+    {
+      "Name": "ml_t0_001_wa_body__t_bug_masksset",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "base\\pkd_flags\\textures\\pkd_flag_dace.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "Metalness": "base\\pkd_flags\\textures\\pkd_flag_m.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "base\\pkd_flags\\textures\\pkd_flag_r.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\pkd_flags\\textures\\pkd_flag_n.xbm",
+        "NormalStrength": 1,
+        "AlphaThreshold": 0.379999995,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveLift": 0,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1
+      }
+    }
+  ],
+  "TexturesList": [
+    "engine\\textures\\editor\\grey.xbm",
+    "engine\\textures\\editor\\black.xbm",
+    "engine\\textures\\editor\\white.xbm",
+    "engine\\textures\\editor\\normal.xbm",
+    "base\\pkd_flags\\textures\\pkd_flag_dace.xbm",
+    "base\\pkd_flags\\textures\\pkd_flag_m.xbm",
+    "base\\pkd_flags\\textures\\pkd_flag_n.xbm",
+    "base\\pkd_flags\\textures\\pkd_flag_r.xbm"
+  ],
+  "MaterialTemplates": [
+    {
+      "Name": "engine\\materials\\metal_base.remt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "NormalStrength": 1,
+        "AlphaThreshold": 0.379999995,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveLift": 0,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1
+      }
+    }
+  ],
+  "Appearances": {
+    "default0": [
+      "ml_t0_001_wa_body__t_bug_masksset",
+      "ml_t0_001_wa_body__t_bug_masksset",
+      "ml_t0_001_wa_body__t_bug_masksset",
+      "ml_t0_001_wa_body__t_bug_masksset"
+    ],
+    "damage1": [
+      "damage",
+      "damage",
+      "damage",
+      "damage"
+    ],
+    "red2": [
+      "red",
+      "red",
+      "red",
+      "red"
+    ],
+    "green3": [
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "yellow4": [
+      "yellow",
+      "yellow",
+      "yellow",
+      "yellow"
+    ],
+    "blue5": [
+      "blue",
+      "blue",
+      "blue",
+      "blue"
+    ],
+    "damage_brown6": [
+      "ml_t0_001_wa_body__t_bug_damage_brown",
+      "ml_t0_001_wa_body__t_bug_damage_brown",
+      "ml_t0_001_wa_body__t_bug_damage_brown",
+      "ml_t0_001_wa_body__t_bug_damage_brown"
+    ],
+    "damage_violet7": [
+      "ml_t0_001_wa_body__t_bug_damage_violet",
+      "ml_t0_001_wa_body__t_bug_damage_violet",
+      "ml_t0_001_wa_body__t_bug_damage_violet",
+      "ml_t0_001_wa_body__t_bug_damage_violet"
+    ],
+    "arasaka_cloaking8": [
+      "arasaka_cloaking",
+      "arasaka_cloaking",
+      "arasaka_cloaking",
+      "arasaka_cloaking"
+    ],
+    "diving_suit9": [
+      "diving_suit",
+      "diving_suit",
+      "diving_suit",
+      "diving_suit"
+    ],
+    "arasaka10": [
+      "ml_t0_001_wa_body__t_bug_arasaka",
+      "ml_t0_001_wa_body__t_bug_arasaka",
+      "ml_t0_001_wa_body__t_bug_arasaka",
+      "ml_t0_001_wa_body__t_bug_arasaka"
+    ],
+    "arasaka_black_red_glossy11": [
+      "ml_t0_001_wa_body__t_bug_arasaka_black_red_glossy",
+      "ml_t0_001_wa_body__t_bug_arasaka_black_red_glossy",
+      "ml_t0_001_wa_body__t_bug_arasaka_black_red_glossy",
+      "ml_t0_001_wa_body__t_bug_arasaka_black_red_glossy"
+    ],
+    "arasaka_glossy12": [
+      "arasaka_glossy",
+      "arasaka_glossy",
+      "arasaka_glossy",
+      "arasaka_glossy"
+    ],
+    "cyberspace13": [
+      "cyberspace",
+      "cyberspace",
+      "cyberspace",
+      "cyberspace"
+    ]
+  }
+}
